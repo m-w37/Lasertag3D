@@ -1,0 +1,27 @@
+#name
+unset
+#password
+p0
+#game hosting enabled
+false
+#server port
+21870
+#play sound
+true
+#field of view, in degrees
+90
+#mouseRotateMaxStep
+0.8
+#key bindings
+keys
+17 0
+87 1
+83 2
+32 3
+16 4
+65 5
+68 6
+81 7
+69 8
+
+e

@@ -1,0 +1,3 @@
+Main-Class: com.mattweidner.lt3d.Lasertag3D
+Class-Path: /usr/share/java/j3dcore.jar /usr/share/java/j3dutils.jar /usr/share/java/vecmath.jar
+

@@ -1,0 +1,5 @@
+Empty
+Standard
+Small Maze
+Medium Maze
+Large Maze
